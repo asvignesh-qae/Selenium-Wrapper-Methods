@@ -47,7 +47,7 @@ import com.thoughtworks.selenium.Wait;
 /**
  * Class for storing general purpose business components
  * 
- * @author Cognizant
+ * @author Vignesh AS
  */
 
 public class GeneralComponents extends ReusableLibrary {
