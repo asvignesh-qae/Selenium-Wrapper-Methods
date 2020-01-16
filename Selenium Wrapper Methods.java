@@ -80,7 +80,7 @@ public class GeneralComponents extends ReusableLibrary {
 			System.out.println("Now you are inside the Frame xpath");
 		} catch (Exception e) {
 			e.printStackTrace();
-			System.out.println("No Frame found");
+			System.out.println("No Frame such found");
 			throw new FrameworkException(e.getMessage());
 		}
 	}
